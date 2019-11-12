@@ -1,0 +1,35 @@
+{
+  "name": "wangcch.cc",
+  "version": "1.0.0",
+  "description": "wangcch.cc homepage",
+  "private": true,
+  "main": "dist/index.html",
+  "scripts": {
+    "dev": "parcel ./public/index.html",
+    "build": "rm -rf ./dist && parcel build ./public/index.html --no-source-maps --public-url ./",
+    "deploy": "yarn build && echo wangcch.cc > dist/CNAME && gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangcch/wangcch.cc.git"
+  },
+  "author": "wangcch <wangcch.cc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangcch/wangcch.cc/issues"
+  },
+  "homepage": "https://github.com/wangcch/wangcch.cc#readme",
+  "dependencies": {
+    "emotion": "^10.0.23",
+    "normalize.css": "^8.0.1",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.11",
+    "@types/react-dom": "^16.9.4",
+    "gh-pages": "^2.1.1",
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.7.2"
+  }
+}
