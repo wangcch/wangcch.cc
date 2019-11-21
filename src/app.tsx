@@ -1,20 +1,29 @@
 import React from "react";
 import { css } from "emotion";
 
+import { wCode, w2Code } from "./txt";
+
 // font family: STHeiti
 
 export default function App() {
+  console.info("%s\b", w2Code);
+
   return (
     <div className={styleApp}>
-      <img
-        className={styleImg}
-        src="https://s.theyear.space/my/wangcch.png?x-oss-process=style/jpg_q_90"
-        alt="wangcch"
-      />
-      <p className={styleLogo}>
-        {"@WANG"}
-        <span>{"CCH"}</span>
-      </p>
+      <div className={styleContent}>
+        <pre>{wCode}</pre>
+      </div>
+      <div className={styleFooter}>
+        <img
+          className={styleImg}
+          src="https://s.theyear.space/my/wangcch.png?x-oss-process=style/jpg_q_90"
+          alt="wangcch"
+        />
+        <p className={styleLogo}>
+          {"@WANG"}
+          <span>{"CCH"}</span>
+        </p>
+      </div>
     </div>
   );
 }
@@ -30,10 +39,28 @@ const styleApp = css`
   height: 100%;
   width: 100%;
   display: flex;
-  justify-content: space-between;
-  align-items: flex-end;
-  font-weight: 100;
+  flex-direction: column;
   padding: 16px;
+`;
+
+const styleContent = css`
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: rgba(0, 0, 0, 0.6);
+
+  @media (max-width: 720px) {
+    transform: scale(0.6);
+  }
+`;
+
+const styleFooter = css`
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 100;
 `;
 
 const styleImg = css`
