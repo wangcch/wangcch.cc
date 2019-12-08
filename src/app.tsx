@@ -30,23 +30,28 @@ export default function App() {
     <div className={styleApp}>
       <div className={styleContent}>{/* <pre>{wCode}</pre> */}</div>
       <div className={styleFooter}>
-        <div style={{ height: 18 }}>
+        <div style={{ height: "1em" }}>
           <img
             className={styleImg}
             src="https://s.theyear.space/my/wangcch.png?x-oss-process=style/jpg_q_90"
             alt="wangcch"
           />
           {links.map(link => (
-            <a key={link.name} href={link.url} target="_block">
+            <a
+              key={link.name}
+              title={link.name}
+              href={link.url}
+              target="_block"
+            >
               <img className={styleShareLink} src={link.src} alt={link.name} />
             </a>
           ))}
         </div>
 
-        <p className={styleLogo}>
+        <h1 className={styleLogo}>
           {"@WANG"}
           <span>{"CCH"}</span>
-        </p>
+        </h1>
       </div>
     </div>
   );
@@ -64,7 +69,7 @@ const styleApp = css`
   width: 100%;
   display: flex;
   flex-direction: column;
-  padding: 16px;
+  padding: 1em;
 `;
 
 const styleContent = css`
@@ -88,15 +93,15 @@ const styleFooter = css`
 `;
 
 const styleImg = css`
-  width: 18px;
-  height: 18px;
+  width: 1em;
+  height: 1em;
   border-radius: 50%;
   margin-right: 0.5em;
 `;
 
 const styleShareLink = css`
-  width: 18px;
-  height: 18px;
+  width: 1em;
+  height: 1em;
   margin-left: 0.5em;
   opacity: 0.7;
 
@@ -107,6 +112,8 @@ const styleShareLink = css`
 `;
 
 const styleLogo = css`
+  font-size: 1em;
+  line-height: 1em;
   letter-spacing: 2px;
   color: rgba(0, 0, 0, 0.8);
   padding: 0;
