@@ -28,7 +28,15 @@ export default function App() {
 
   return (
     <div className={styleApp}>
-      <div className={styleContent}>{/* <pre>{wCode}</pre> */}</div>
+      <div className={styleContent}>
+        <iframe
+          src="https://board.theyear.space/"
+          width="100%"
+          height="100%"
+          scrolling="no"
+          frameBorder="0"
+        ></iframe>
+      </div>
       <div className={styleFooter}>
         <div style={{ height: "1em" }}>
           <img
@@ -69,7 +77,6 @@ const styleApp = css`
   width: 100%;
   display: flex;
   flex-direction: column;
-  padding: 1em;
 `;
 
 const styleContent = css`
@@ -90,6 +97,7 @@ const styleFooter = css`
   justify-content: space-between;
   align-items: center;
   font-weight: 100;
+  padding: 0 1em 1em 1em;
 `;
 
 const styleImg = css`
