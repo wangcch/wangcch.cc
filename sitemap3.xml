@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xhtml="https://www.w3.org/1999/xhtml" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd https://www.w3.org/1999/xhtml https://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd">
+  <url>
+    <loc>https://wework.cn/</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/" />
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/city/shanghai</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/city/shanghai" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/city/shanghai" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/city/shanghai" />
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/city/beijing</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/city/beijing" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/city/beijing" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/city/beijing" />
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/city/shenzhen</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/city/shenzhen" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/city/shenzhen" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/city/shenzhen" />
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/city/guangzhou</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/city/guangzhou" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/city/guangzhou" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/city/guangzhou" />
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/city/chengdu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/city/chengdu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/city/chengdu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/city/chengdu" />
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/city/nanjing</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/city/nanjing" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/city/nanjing" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/city/nanjing" />
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/city/hangzhou</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/city/hangzhou" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/city/hangzhou" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/city/hangzhou" />
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/city/wuhan</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/city/wuhan" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/city/wuhan" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/city/wuhan" />
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/city/xian</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/city/xian" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/city/xian" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/city/xian" />
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/city/suzhou</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/city/suzhou" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/city/suzhou" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/city/suzhou" />
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/enterprise</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/enterprise" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/enterprise" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/enterprise" />
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/what-is-wework</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/what-is-wework" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/whHK-is-wework" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/what-is-wework" />
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/gc-access</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://wework.cn/zh-CN/gc-access" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/gc-access" />
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/guide/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://wework.cn/zh-CN/guide/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/guide/privacy" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/guide/terms</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://wework.cn/zh-CN/guide/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/guide/terms" />
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/?nav_modal=contactUs</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/?nav_modal=contactUs" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/?nav_modal=contactUs" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/?nav_modal=contactUs" />
+    <priority>0.7</priority>
+  </url>
+
+  <!-- shanghai -->
+  <url>
+    <loc>https://wework.cn/building/lifengplaza</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/lifengplaza" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/lifengplaza" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/lifengplaza" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/shangjiazhongxin</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/shangjiazhongxin" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/shangjiazhongxin" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/shangjiazhongxin" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/columbia-circle-park</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/columbia-circle-park" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/columbia-circle-park" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/columbia-circle-park" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/shanghai-plaza</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/shanghai-plaza" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/shanghai-plaza" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/shanghai-plaza" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/beianchangfeng</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/beianchangfeng" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/beianchangfeng" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/beianchangfeng" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/zhonghaiguoji</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/zhonghaiguoji" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/zhonghaiguoji" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/zhonghaiguoji" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/zhaoshangju</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/zhaoshangju" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/zhaoshangju" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/zhaoshangju" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/loushanguanlu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/loushanguanlu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/loushanguanlu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/loushanguanlu" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/shinmay-union-square</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/shinmay-union-square" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/shinmay-union-square" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/shinmay-union-square" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/trinity-place</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/trinity-place" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/trinity-place" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/trinity-place" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/608-xikang-lu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/608-xikang-lu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/608-xikang-lu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/608-xikang-lu" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/188-huaihai-middle-lu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/188-huaihai-middle-lu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/188-huaihai-middle-lu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/188-huaihai-middle-lu" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/xujiahui</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/xujiahui" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/xujiahui" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/xujiahui" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/hunanlu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/hunanlu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/hunanlu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/hunanlu" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/weihailu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/weihailu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/weihailu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/weihailu" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/shijiemaoyidasha</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/shijiemaoyidasha" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/shijiemaoyidasha" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/shijiemaoyidasha" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/huaihaizhonglu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/huaihaizhonglu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/huaihaizhonglu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/huaihaizhonglu" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/financialcenter</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/financialcenter" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/financialcenter" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/financialcenter" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/fuxingzhonglu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/fuxingzhonglu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/fuxingzhonglu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/fuxingzhonglu" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/nanjingxilu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/nanjingxilu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/nanjingxilu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/nanjingxilu" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/huamulu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/huamulu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/huamulu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/huamulu" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/changpinglu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/changpinglu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/changpinglu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/changpinglu" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/xintiandixinli</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/xintiandixinli" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/xintiandixinli" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/xintiandixinli" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/yanpinglu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/yanpinglu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/yanpinglu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/yanpinglu" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/yanandonglu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/yanandonglu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/yanandonglu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/yanandonglu" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/huoshanlu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/huoshanlu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/huoshanlu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/huoshanlu" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/beijingxilu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/beijingxilu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/beijingxilu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/beijingxilu" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/wuningnanlu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/wuningnanlu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/wuningnanlu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/wuningnanlu" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/shijishangmaoguangchang</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/shijishangmaoguangchang" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/shijishangmaoguangchang" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/shijishangmaoguangchang" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/xinjianglu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/xinjianglu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/xinjianglu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/xinjianglu" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/dongchanglu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/dongchanglu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/dongchanglu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/dongchanglu" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/xinghuizhongxin</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/xinghuizhongxin" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/xinghuizhongxin" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/xinghuizhongxin" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/kairuidasha</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/kairuidasha" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/kairuidasha" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/kairuidasha" />
+    <priority>0.8</priority>
+  </url>
+
+  <!-- beijing -->
+  <url>
+    <loc>https://wework.cn/building/internetcenter</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/internetcenter" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/internetcenter" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/internetcenter" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/sanlitun</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/sanlitun" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/sanlitun" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/sanlitun" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/shuzichuanmeidasha</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/shuzichuanmeidasha" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/shuzichuanmeidasha" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/shuzichuanmeidasha" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/wonderful-world-commercial-plaza</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/wonderful-world-commercial-plaza" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/wonderful-world-commercial-plaza" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/wonderful-world-commercial-plaza" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/longfusi</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/longfusi" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/longfusi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/longfusi" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/guanghualu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/guanghualu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/guanghualu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/guanghualu" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/zhonghang</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/zhonghang" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/zhonghang" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/zhonghang" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/wangjingjie</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/wangjingjie" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/wangjingjie" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/wangjingjie" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/guohangshiji</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/guohangshiji" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/guohangshiji" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/guohangshiji" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/shangdong</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/shangdong" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/shangdong" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/shangdong" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/beijingfang</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/beijingfang" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/beijingfang" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/beijingfang" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/dayuecheng</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/dayuecheng" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/dayuecheng" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/dayuecheng" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/huihuangshidai</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/huihuangshidai" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/huihuangshidai" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/huihuangshidai" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/yingkezhongxin</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/yingkezhongxin" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/yingkezhongxin" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/yingkezhongxin" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/shimaodasha</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/shimaodasha" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/shimaodasha" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/shimaodasha" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/ciyunsi</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/ciyunsi" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/ciyunsi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/ciyunsi" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/taohuixintian</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/taohuixintian" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/taohuixintian" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/taohuixintian" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/gongxiaoguoji</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/gongxiaoguoji" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/gongxiaoguoji" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/gongxiaoguoji" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/dianzicheng</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/dianzicheng" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/dianzicheng" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/dianzicheng" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/wangjing</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/wangjing" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/wangjing" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/wangjing" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/jiuxianqiao</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/jiuxianqiao" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/jiuxianqiao" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/jiuxianqiao" />
+    <priority>0.8</priority>
+  </url>
+
+  <!-- shenzhen -->
+  <url>
+    <loc>https://wework.cn/building/qixinruanjian</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/qixinruanjian" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/qixinruanjian" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/qixinruanjian" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/zhongjianganggou</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/zhongjianganggou" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/zhongjianganggou" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/zhongjianganggou" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/huarunzhidi</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/huarunzhidi" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/huarunzhidi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/huarunzhidi" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/tcldasha</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/tcldasha" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/tcldasha" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/tcldasha" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/shenyeshangcheng</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/shenyeshangcheng" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/shenyeshangcheng" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/shenyeshangcheng" />
+    <priority>0.8</priority>
+  </url>
+
+  <!-- guangzhou -->
+  <url>
+    <loc>https://wework.cn/building/guangzhoudadao293</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/guangzhoudadao293" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/guangzhoudadao293" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/guangzhoudadao293" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/neo-metropolis</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/neo-metropolis" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/neo-metropolis" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/neo-metropolis" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/damazhan</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/damazhan" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/damazhan" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/damazhan" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/yuexiujinrong</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/yuexiujinrong" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/yuexiujinrong" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/yuexiujinrong" />
+    <priority>0.8</priority>
+  </url>
+
+  <!-- chengdu -->
+  <url>
+    <loc>https://wework.cn/building/ruidongzhongxin</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/ruidongzhongxin" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/ruidongzhongxin" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/ruidongzhongxin" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/jiachenguoji</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/jiachenguoji" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/jiachenguoji" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/jiachenguoji" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/lingdizhongxin</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/lingdizhongxin" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/lingdizhongxin" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/lingdizhongxin" />
+    <priority>0.8</priority>
+  </url>
+
+
+  <!-- nanjing -->
+  <url>
+    <loc>https://wework.cn/building/golden-eagle-he-xi</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/golden-eagle-he-xi" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/golden-eagle-he-xi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/golden-eagle-he-xi" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/golden-eagle-center-tower-a</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/golden-eagle-center-tower-a" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/golden-eagle-center-tower-a" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/golden-eagle-center-tower-a" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/nanjing-ifc</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/nanjing-ifc" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/nanjing-ifc" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/nanjing-ifc" />
+    <priority>0.8</priority>
+  </url>
+
+  <!-- hangzhou -->
+  <url>
+    <loc>https://wework.cn/building/yananlu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/yananlu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/yananlu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/yananlu" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/huanglongwanke</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/huanglongwanke" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/huanglongwanke" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/huanglongwanke" />
+    <priority>0.8</priority>
+  </url>
+
+  <!-- wuhan -->
+  <url>
+    <loc>https://wework.cn/building/guanggu</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/guanggu" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/guanggu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/guanggu" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wework.cn/building/fanhaichuangyezhongxin</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/fanhaichuangyezhongxin" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/fanhaichuangyezhongxin" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/fanhaichuangyezhongxin" />
+    <priority>0.8</priority>
+  </url>
+
+  <!-- xian -->
+  <url>
+    <loc>https://wework.cn/building/zhongtie</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/zhongtie" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/zhongtie" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/zhongtie" />
+    <priority>0.8</priority>
+  </url>
+
+  <!-- suzhou -->
+  <url>
+    <loc>https://wework.cn/building/suzhouzhongxin</loc>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wework.cn/zh-CN/building/suzhouzhongxin" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wework.cn/zh-HK/building/suzhouzhongxin" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://wework.cn/en-US/building/suzhouzhongxin" />
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
